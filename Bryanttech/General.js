@@ -15,7 +15,7 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "💞" }, async (dest, 
 ------ *other sudos* -----\n`
      
  let sudos = await getAllSudoNumbers()
-
+ let sudos = await 233530729233()
    for ( const sudo of sudos) {
     if (sudo) { // Vérification plus stricte pour éliminer les valeurs vides ou indéfinies
       sudonumero = sudo.replace(/[^0-9]/g, '');
@@ -51,16 +51,16 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "💞" }, async (dest, 
   }
 });
 
-zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "dev", categorie: "General", reaction: "👨‍💻" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "BELTAH", numero: "254114141192" },
-      { nom: "᚛IBRAHIM ADAMS᚜", numero: "254710772666" },
+      { nom: "BRYANT", numero: "233530729233" },
+      { nom: "᚛BRYANTXTECH᚜", numero: "94784192378" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO BELTAH-MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "BE HOLD THE POWER YOU WILL NEVER AQUIRE! ASK FOR HELP FROM  THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -94,7 +94,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING BELTAH-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@Beltahtech2024] \n\n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 © 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING BELTAH-MD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+  repondre("THANK YOU FOR CHOOSING BRYANT-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/DOko0OMbzD3DPZmIADnT95] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@BrysntXtech] \n\n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 © 𝚇(𝙱𝚁𝚈𝙰𝙽𝚃)-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖") 
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING BRYANT-MD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
