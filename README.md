@@ -1,5 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 𝗕𝗥𝗬𝗔𝗡𝗧-𝗠𝗗
+| [![Bryant tech](https://telegra.ph/file/8097540b171acc81f54cb.jpg?lenght=50width=50?lenght=50width=50)](https://github.com/Elsa2090)|
+|----|
    ✦𝗠𝗔𝗗𝗘 𝗕𝗬 𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛✦
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -27,7 +29,7 @@
 
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Beltahmd/beltah-md/fork"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-blue" alt="FORK BELTAH-MD REPO" width="150"></a>
+<a href="https://github.com/Beltahmd/beltah-md/fork"><img src="https://img.shields.io/badge/Fork%20Elsa2090%20Repo-blue" alt="FORK BRYANT-MD REPO" width="150"></a>
 
 ## GET YOUR SESSION ID: 
 
@@ -41,21 +43,21 @@
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
-<a href="https://www.youtube.com/@Beltahtech2024"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-red" alt="FULL TUTORIAL HERE" width="150"></a>
+<a href="https://www.youtube.com/@BryantXtech"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-red" alt="FULL TUTORIAL HERE" width="150"></a>
 
 
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
  
- ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Beltahmd/beltah-md&template=https://github.com/Beltahmd/beltah-md.git)***
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Elsa2090/Bryant-md&template=https://github.com/Elsa2090/Bryant-md.git)***
 
  ## CONTACT DEVELOPER
 
-⏣REACH BELTAH-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/254114141192)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/beltah254) 
+👨‍💻REACH BRYANT-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/233530729233)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/KingBryant) 
 
 ## CONTRIBUTIONS
 
-Contributions to BELTAH-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to BRYANT-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
   ## THANKS TO MY FELLOW DEV FOR;
 
@@ -66,18 +68,22 @@ Who added commands (uptime, ping, vv, ss, repo); <br>
     [GIFTED TECH]
     
 Who helped in commands addition 
-(ai, dalle, gpt4, gpt, starting up message for bot, updated index. Js) ;
+(ai, dalle, gpt4, gpt, starting up message for bot, updates; <br>
+
+     [BELTAH MD]
+     
+Thanks for helping me 🙇; <br>
 
 ## License
 
-The WhatsApp Bot 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot 𝗕𝗥𝗬𝗔𝗡𝗧 𝗠𝗗 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-🌟 THANK YOU FOR CHOOSING BELTAH-MD 🌟
+🌟 THANK YOU FOR CHOOSING 𝗕𝗥𝗬𝗔𝗡𝗧-𝗠𝗗🌟
 
 ## DEVELOPERS :
 
+- [**BRYANT TECH**](.https://github.com/Elsa2090)
 - [**BELTAH TECH**](https://github.com/Beltahmd)
-- [**FRANCE KING**](https://github.com/franceking1)
-- [**GIFTED TECH**](https://github.com/mouricedevs)
+  
 
-★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©2024
+★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚇(𝙱𝚁𝚈𝙰𝙽𝚃-𝚃𝙴𝙲𝙷)-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©2024
