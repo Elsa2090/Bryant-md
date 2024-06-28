@@ -1,29 +1,29 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## BELTAH-MD V3.0.0 
-   ***MADE WITH 💎***
+## 𝗕𝗥𝗬𝗔𝗡𝗧-𝗠𝗗
+   ✦𝗠𝗔𝗗𝗘 𝗕𝗬 𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛✦
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗕𝗘𝗟𝗧𝗔𝗛+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗕𝗥𝗬𝗔𝗡𝗧+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+𝗕𝗥𝗬𝗔𝗡𝗧+𝗧𝗘𝗖𝗛" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
-| [![Beltah KE](https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50)](https://github.com/Beltahmd)|
+| [![Beltah KE](https://telegra.ph/file/69a90d07178dca1e7d84f.jpg?lenght=50width=50)](https://github.com/Elsa2090)|
 |----|
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-MD+V3.0.0+RESPONDS+FAST" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝗕𝗥𝗬𝗔𝗡𝗧-𝗠𝗗+RESPONDS+FAST" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛-blue.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/beltah-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahmd?label=Followers&style=social"></a>
-<a href="https://github.com/Beltahmd/beltah-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahmd/beltah-md?&style=social"></a>
-<a href="https://github.com/Beltahmd/beltah-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahmd/beltah-md?style=social"></a>
-<a href="https://github.com/Beltahmd/beltah-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahmd/beltah-md?label=Watching&style=social"></a>
+<a href="https://github.com/Elsa2090?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Elsa2090?label=Followers&style=social"></a>
+<a href="https://github.com/Elsa2090/Bryant-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Elsa2090/Bryant-md?&style=social"></a>
+<a href="https://github.com/Elsa2090/Bryant-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Elsa2090/Bryant-md?style=social"></a>
+<a href="https://github.com/Elsa2090/Bryant-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Elsa2090/Bryant-md?label=Watching&style=social"></a>
   
-## SETUP FOR 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗
+## SETUP FOR BRYANT MD
 
 **CLICK HERE 👇 TO FORK**
 
