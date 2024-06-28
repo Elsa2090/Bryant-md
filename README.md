@@ -82,7 +82,7 @@ The WhatsApp Bot 𝗕𝗥𝗬𝗔𝗡𝗧 𝗠𝗗 is released under the [MIT Li
 
 ## DEVELOPERS :
 
-- [**BRYANT TECH**](.https://github.com/Elsa2090)
+- [**BRYANT TECH**](https://github.com/Elsa2090)
 - [**BELTAH TECH**](https://github.com/Beltahmd)
   
 
