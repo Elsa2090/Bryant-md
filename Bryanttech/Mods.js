@@ -47,7 +47,7 @@ const sleep =  (ms) =>{
         type = 'not animated sticker'
       }
   
-      let msg = `   Beltah-md-stickers-dl
+      let msg = `   Bryant-md-stickers-dl
       
   *Name :* ${stickers.data.result.name}
   *Type :* ${type} 
@@ -70,7 +70,7 @@ const sleep =  (ms) =>{
   
           const sticker = new Sticker(buffer.data, {
             pack: nomAuteurMessage,
-            author: "Beltah-md",
+            author: "Bryant-md",
             type: StickerTypes.FULL,
             categories: ['🤩', '🎉'],
             id: '12345',
@@ -97,7 +97,7 @@ const sleep =  (ms) =>{
 zokou({ nomCom: "crew", categorie: "Mods" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, arg, auteurMessage, superUser, auteurMsgRepondu, msgRepondu } = commandeOptions;
 
-  if (!superUser) { repondre("only modds can use this command"); return };
+  if (!superUser) { repondre("only mods can use this command"); return };
 
   if (!arg[0]) { repondre('Please enter the name of the group to create'); return };
   if (!msgRepondu) { repondre('Please mention a member added '); return; }
@@ -179,7 +179,7 @@ zokou({ nomCom: "block", categorie: "Mods" }, async (dest, zk, commandeOptions) 
               } else {
                 jid = auteurMsgRepondu
              await zk.updateBlockStatus(jid, "block")
-    .then( repondre('succes'))   } ;
+    .then( repondre('goodbye mf'))   } ;
 
   });
 
@@ -487,7 +487,7 @@ zokou({ nomCom: "save", categorie: "Mods" }, async (dest, zk, commandeOptions) =
           let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
   
           let stickerMess = new Sticker(media, {
-            pack: 'BELTAH-MD-TAG',
+            pack: 'BRYANT-MD-TAG',
             type: StickerTypes.CROPPED,
             categories: ["🤩", "🎉"],
             id: "12345",
