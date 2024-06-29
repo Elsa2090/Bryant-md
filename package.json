@@ -1,5 +1,5 @@
 {
-  "name": "beltah-md",
+  "name": "bryant-md",
   "version": "1.0.0",
   "description": "",
   "main": "beltah.js",
@@ -17,7 +17,7 @@
     "whatsapp-bot",
     "Faouz995"
   ],
-  "author": "Beltah Tech Team",
+  "author": "Bryant Tech Team",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
