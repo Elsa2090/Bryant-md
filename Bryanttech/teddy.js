@@ -1,14 +1,7 @@
-const {
-    smd,
-    sleep
-    } = require('../lib'),teddyM = {"smd" : "asta" }
+console.log("mon test");
 
-smd({
-    cmdname: "teddy",    
-    type: "fun",    
-    info: "cute teddy",   
-    on: "text" ,
-    filename: __filename,
+zokou({ nomCom: "teddy", reaction: "❣️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+    console.log("Commande saisie !!!s");
 },async(citel,match , {smd}) => {
   let isteddy = smd ==="teddy"?true : citel.isPublic && match.toLowerCase().includes("teddy") ? true : ""       
       if (isteddy && !teddyM[citel.id]) {
