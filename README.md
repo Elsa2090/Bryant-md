@@ -39,7 +39,7 @@
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://replit.com/@arcanedream77/bryantmd-sessionid?v=1"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://replit.com/@arcanedream77/bryantmd-sessionid?v=1"><img src="https://img.shields.io/badge/QR%20session%20code-gold" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
