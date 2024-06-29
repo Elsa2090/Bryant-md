@@ -113,6 +113,8 @@ zokou({ nomCom: "xtech", reaction: "🇰🇪", nomFichier: __filename }, async (
 consloe.log("mon test");
 
 zokou({nomcom: "hack", reaction: "👨‍💻", nomFichier: _filesname }, async (dest, zk, commandeoptions) => {
+    console.log("Commande saisie !!!s");
+             
     citel.reply("```Injecting malware```")
 
 await sleep(1000)
