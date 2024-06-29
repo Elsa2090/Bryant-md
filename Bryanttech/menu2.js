@@ -41,23 +41,23 @@ const date = moment().format('DD/MM/YYYY');
 │☹︎│▸ *PLUGINS* : ${cm.length} 
 │☹︎│▸ *STORAGE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │☹︎│▸ *RUNNING ON* : ${os.platform()}
-│☹︎│▸ *THEME* : *BELTAH KE*
+│☹︎│▸ *THEME* : *❣️𝙱𝚁𝚈𝙰𝙽𝚃 𝚃𝙴𝙲𝙷❣️*
 │☹︎╰──────────────✇
 ╰──────────────────✇
 ╭───────────────✣
-  《《 *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 V3.0.0* 》》
+  《《 *𝗕𝗥𝗬𝗔𝗡𝗧 𝗠𝗗* 》》
 ╰───────────────✇\n`;
     
 let menuMsg = `
-╭─────────✣
-   *like a boss*
+╭─────────✦
+   *𝗥𝗘𝗦𝗣𝗘𝗖𝗧 𝗧𝗛𝗜𝗦 𝗨𝗦𝗘𝗥*
 ╰─────────✣
 
  *❄︎LIST PLUGINS❄︎*
 `;
 
     for (const cat in coms) {
-        menuMsg += ` ╭──────✣ *${cat}* ✣─────☹︎`;
+        menuMsg += ` ╭──────✦ *${cat}* ✦─────☹︎`;
         for (const cmd of coms[cat]) {
             menuMsg += `
 │✇│ ${cmd}`;
@@ -69,9 +69,9 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————————— ★ ——————————««*
-|⏣BELTAH-MD CREATED BY BELTAH TECH TEAM
-|⏣ *RELEASED ON : 02.06.2024*
-|⏣THANK YOU FOR CHOOSING *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗*
+|⏣𝑩𝑹𝒀𝑨𝑵𝑻-𝑴𝑫 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑩𝑹𝒀𝑨𝑵𝑻 𝑻𝑬𝑪𝑯.𝑰𝑵𝑪
+|⏣*𝑹𝑬𝑳𝑬𝑨𝑺𝑬𝑫 𝑶𝑵: 𝟎𝟐.𝟎𝟔.𝟐𝟎𝟐𝟒*
+|⏣𝑻𝑯𝑨𝑵𝑲 𝒀𝑶𝑼 𝑭𝑶𝑹 𝑪𝑯𝑶𝑶𝑺𝑰𝑵𝑮 *𝑩𝑹𝒀𝑨𝑵𝑻 𝑴𝑫*
 *»»—————————— ★ ——————————««*
 `;
 
@@ -79,7 +79,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Bryantmd*, déveloper Bryant Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -89,7 +89,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Bryantmd*, déveloper Bryant Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
