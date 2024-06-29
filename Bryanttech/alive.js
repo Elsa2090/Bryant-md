@@ -39,11 +39,11 @@ const date = moment().format('DD/MM/YYYY');
 *Mode* : ${mode}
 *Date* : ${date}
 *Hours(GMT)* : ${temps}
-
+*Dev* : BRYANT TECH
  ${message}
  
  
- *BELTAH_MD version 2.0*`
+ *BRYANT_MD*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *BELTAH-MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *BRYANT-MD BOT* is alive just like you gee 👨‍💻👊. ')
 
 }
     });
