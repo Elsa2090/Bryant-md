@@ -41,8 +41,8 @@
     } ,
      "BOT_MENU_LINKS" : {
     
-      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"",
+      "description":"add one or many link for your bot menu  ; its ristricted dont touch it.",
+      "value":"https://telegra.ph/file/cceaff658a46eee20f495.jpg",
       "required":false
        
      },
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Beltahdev"
+    "value": "BRYANT TECH"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254114141192,254737681758"
+    "value": "233530729233"
   },
     "WARN_COUNT":
   {
@@ -99,12 +99,12 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",  
+    "value":"1",  
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
     "required": false
   }
   },
