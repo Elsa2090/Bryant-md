@@ -804,27 +804,27 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Beltah is connecting...");
+                console.log("ℹ️ Bryant is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ Beltah Connected to WhatsApp! ☺️");
+                console.log("✅ Bryant Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Beltah Md is Online 🕸\n\n");
+                console.log("Bryant Md is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading Beltah Commands ...\n");
-                fs.readdirSync(__dirname + "/beltah").forEach((fichier) => {
+                console.log("Loading Bryanf Commands ...\n");
+                fs.readdirSync(__dirname + "/Bryanttech").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/beltah/" + fichier);
+                            require(__dirname + "/Bryanttech/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
                             console.log(`${fichier} could not be installed due to : ${e}`);
-                        } /* require(__dirname + "/beltah/" + fichier);
+                        } /* require(__dirname + "/bryanttech/" + fichier);
                          console.log(fichier + " Installed ✔️")*/
                         (0, baileys_1.delay)(300);
                     }
@@ -846,15 +846,15 @@ zk.ev.on('group-participants.update', async (group) => {
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
 
-                let cmsg = `BELTAH-MD is active now
+                let cmsg = `BRYANT-MD is active now
 
   Prefix   : [ ${prefixe} ]  
   ⁠⁠⁠⁠Mode    : ${md}
   Plugins  : ${evt.cm.length}
-  Owner  :  Beltah Ke
+  Owner  :  Bryant tech
  
 SUPPORT BY SUBSCRIBING
-youtube.com/@Beltahtech2024 `;
+youtube.com/@BryantXtech `;
 
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
