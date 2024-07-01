@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/BELTAH-MD;;;/g,"");
+var session = conf.session.replace(/BRYANT-MD;;;/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{Beltah-Md}...[][]");
+            console.log("\t [][]...{Bryant-Md}...[][]");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -816,10 +816,10 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("Bryant Md is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading Bryanf Commands ...\n");
-                fs.readdirSync(__dirname + "/Bryanttech").forEach((fichier) => {
+                fs.readdirSync(__dirname + "/beltah").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/Bryanttech/" + fichier);
+                            require(__dirname + "/beltah/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
