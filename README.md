@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 𝗕𝗥𝗬𝗔𝗡𝗧-𝗠𝗗
-| [![Bryant tech](https://telegra.ph/file/8097540b171acc81f54cb.jpg?lenght=50width=50?lenght=50width=50)](https://github.com/Elsa2090)|
+| [![Bryant tech](https://telegra.ph/file/46e08bf70656323d4a990.jpg?lenght=50width=50?lenght=50width=50)](https://github.com/Elsa2090)|
 |----|
    ✦𝗠𝗔𝗗𝗘 𝗕𝗬 𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛✦
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -10,7 +10,7 @@
   </p>
 <div align="center">
 
-| [![Beltah KE](https://telegra.ph/file/69a90d07178dca1e7d84f.jpg?lenght=50width=50)](https://github.com/Elsa2090)|
+| [![Beltah KE](https://telegra.ph/file/68462d41448df9ed51454.jpg?lenght=50width=50)](https://github.com/Elsa2090)|
 |----|
 
 <p align="center">
