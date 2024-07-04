@@ -10,7 +10,7 @@
   </p>
 <div align="center">
 
-| [![Beltah KE](https://telegra.ph/file/68462d41448df9ed51454.jpg?lenght=50width=50)](https://github.com/Elsa2090)|
+| [![BRYANT TECH](https://telegra.ph/file/68462d41448df9ed51454.jpg?lenght=50width=50)](https://github.com/Elsa2090)|
 |----|
 
 <p align="center">
@@ -29,13 +29,13 @@
 
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Beltahmd/beltah-md/fork"><img src="https://img.shields.io/badge/Fork%20Elsa2090%20Repo-blue" alt="FORK BRYANT-MD REPO" width="150"></a>
+<a href="https://github.com/Elsa2090/Bryant-md/fork"><img src="https://img.shields.io/badge/BRYANT-MD-black" alt="FORK BRYANT-MD REPO" width="150"></a>
 
 ## GET YOUR SESSION ID: 
 
 **CLICK HERE 👇 TO PAIR**
 
-<a href="https://replit.com/@arcanedream77/bryantmd-sessionid?v=1"><img src="https://img.shields.io/badge/Pair%20session%20code-gold" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://replit.com/@arcanedream77/bryantmd-sessionid?v=1"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
