@@ -32,7 +32,7 @@ function _0x5403() {
         '35660asHjob',
         'i.github.c',
         'defineProp',
-        '𝐁𝐑𝐘𝐀𝐍𝐓\x20𝐓𝐄𝐂𝐇',
+        '𝐁𝐄𝐋𝐓𝐀𝐇\x20𝐓𝐄𝐂',
         'https://ap',
         'SIT\x20FOR\x20TU',
         '\x20REPOSITO',
@@ -43,7 +43,7 @@ function _0x5403() {
         '58364OsOEGZ',
         '962513PyZAOE',
         'legra.ph/f',
-        'rth\x20by\x20𝐁𝐑𝐘',
+        'rth\x20by\x20Bel',
         '../framewo',
         'DATE\x20ON*:\x20',
         '201000FvdcIk',
@@ -77,7 +77,7 @@ function _0x5403() {
         'om/repos/B',
         'dee6cc7597',
         'en-GB',
-        'm/@Bryantxtect',
+        'm/@Beltaht',
         '1375650kPEVMp',
         'https://te',
         '_count',
@@ -105,14 +105,14 @@ function _0x5403() {
         'erty',
         'keFBU',
         'ile/dcce2d',
-        'ryant-md',
+        'ltah-md',
         '\x20\x0a❒⁠⁠⁠⁠\x20*F',
         '\x0a❒⁠⁠⁠⁠\x20*VI',
-        'ant\x20tech◆',
+        'tah\x20tech◆',
         'updated_at',
         '_______\x0a\x20◆',
-        'AM\x20Bryant-',
-        '\x20📍Hello,I\x20'
+        'AM\x20Beltah-',
+        '\x20🐲Hello,I\x20'
     ];
     _0x5403 = function () {
         return _0x254e27;
@@ -122,7 +122,7 @@ function _0x5403() {
 const {zokou} = require(_0x1a9979(0x148) + _0x1a9979(0x15a));
 zokou({
     'nomCom': _0x1a9979(0x135),
-    'reaction': '😌',
+    'reaction': '👹',
     'nomFichier': __filename
 }, async (_0x969b1f, _0x2501c9, _0x849359) => {
     const _0x3cb298 = _0x1a9979, _0x2c7d0a = {
