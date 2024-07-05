@@ -15,7 +15,6 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "💞" }, async (dest, 
 ------ *other sudos* -----\n`
      
  let sudos = await getAllSudoNumbers()
- let sudos = await 233530729233()
    for ( const sudo of sudos) {
     if (sudo) { // Vérification plus stricte pour éliminer les valeurs vides ou indéfinies
       sudonumero = sudo.replace(/[^0-9]/g, '');
