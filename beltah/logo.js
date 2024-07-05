@@ -1,10 +1,10 @@
 const { zokou } = require("../framework/zokou");
 var mumaker = require("mumaker");
 zokou({ nomCom: "hacker",
-    categorie: "Logo", reaction: "👨🏿‍💻" }, async (origineMessage, zk, commandeOptions) => {
+    categorie: "Logo", reaction: "🤫" }, async (origineMessage, zk, commandeOptions) => {
     const { prefixe, arg, ms, repondre } = commandeOptions;
     if (!arg || arg == "") {
-        repondre("*__Exemple : * " + prefixe + "hacker Beltah");
+        repondre("*__Exemple : * " + prefixe + "hacker Bryant tech");
         return;
     }
     try {
@@ -94,7 +94,7 @@ zokou({ nomCom: "didong", categorie: "Logo", reaction: "📱" }, async (dest, zk
      var titre = "\t* logo by Zokou-Md*";
       var lien = "https://ephoto360.com/tao-anh-che-vui-tu-choi-cuoc-goi-voi-ten-cua-ban-930.html";
         if (!arg || arg == "") {
-           repondre(`*exemple :* ${prefixe}didong Beltah`)
+           repondre(`*exemple :* ${prefixe}didong Bryant`)
             return ;
         }
      
@@ -241,8 +241,8 @@ var lien="https://en.ephoto360.com/boom-text-comic-style-text-effect-675.html";
        // let lien = "https://e1.yotools.net" + res;
          
 
-repondre("  processing ...")
-         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by Beltah-Md*"})
+repondre("  wait for Bryant tech magic ...")
+         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by Bryant-Md*"})
          
         // await zk.sendMessage(dest,{image:{url:lienImage},caption:"\t *Logo by Zokou-Md*"})
          
@@ -325,7 +325,7 @@ zokou({ nomCom: "thunder", categorie: "Logo", reaction: "⚡" }, async (dest, zk
 zokou({ nomCom: "harrypotter", categorie: "Logo", reaction: "🧙‍♂️" }, async (dest, zk, commandeOptions) => {
   const { arg, ms, prefixe,repondre } = commandeOptions;
   if (!arg[0]) {
-    repondre(`Exemple of using commande:\n ${prefixe}HarryPotter My text`);
+    repondre(`Exemple of using commande:\n ${prefixe}HarryPotter My Bryant tech`);
     return;
   }
 
