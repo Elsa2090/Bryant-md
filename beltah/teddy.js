@@ -2,8 +2,6 @@ const {zokou} = require("../framework/zokou");
 const axios = require('axios');
 const traduire = require('../framework/traduction')
 
-
-
 zokou({
     nomCom: "teddy",
     categorie: "Games",
