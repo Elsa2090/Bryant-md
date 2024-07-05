@@ -40,7 +40,7 @@ zokou({ nomCom: "test", reaction: "✅", nomFichier: __filename }, async (dest, 
     let z = ' *☹︎ 𝗕𝗥𝗬𝗔𝗡𝗧-𝗠𝗗 𝗕𝗢𝗧 𝗜𝗦 𝗖𝗨𝗥𝗥𝗘𝗡𝗧𝗟𝗬 𝗔𝗖𝗧𝗜𝗩𝗘 凸(｀0´)凸*\n';
     let d = ' ❄︎ *_MADE ON EARTH BY BRYANT TECH TEAM_* ❄︎';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/bc12002382105e156a9d1.mp4';
+    var img = 'https://telegra.ph/file/28aeb226ef2badcbbd30f.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -51,7 +51,7 @@ zokou({ nomCom: "bot", reaction: "🤖", nomFichier: __filename }, async (dest, 
     let z = ' *BRYANT-MD MAIN FEATURES* \n\n 1.Auto view status✅\n 2.Always online✅\n 3.A1 chat gpt enabled \n 4.Download songs/images✅\n 5.Open view once photos✅\n 6.Antidelete messages✅\n 7.Auto block contacts✅\n 8.Auto bluetick✅\n\n';
     let d = ' *THANK YOU FOR LOVING BRYANT-MD*';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
+    var img = 'https://telegra.ph/file/6f4be641947bfe51b8bb6.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -60,9 +60,9 @@ console.log("mon test");
 zokou({ nomCom: "g*y", reaction: "🏳️‍🌈", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = ' *F*CK MEHN,,, THIS GUY IS G*Y🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈*\n';
-    let d = 'WHY WOULD YOU REQUEST THAT COMMAND IF NOT';
+    let d = 'WHY WOULD YOU REQUEST THAT COMMAND IF NOT (G*Y)';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/5d4c27c77b240483e7b05.png';
+    var img = 'https://telegra.ph/file/92e7281eca9d48f39fccc.png';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -70,10 +70,10 @@ console.log("mon test");
 
 zokou({ nomCom: "check", reaction: "🗿", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = ' *BELTAH-MD UPDATES*\n\n';
+    let z = ' *BRYANT-MD UPDATES*\n\n';
     let d = 'Checking for updates...⏳\n\nUpdating new version...⏳\n\ndone....✅\n\n *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 NEW VERSION SUCCESSFULLY INSTALLED...* ';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
+    var img = 'https://telegra.ph/file/42b9fd9b272f93b04b1d5.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -81,10 +81,10 @@ console.log("mon test");
 
 zokou({ nomCom: "version", reaction: "⏳", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = ' *YOU ARE CURRENTLY USING BELTAH-MD V3.0.0*\n\n';
+    let z = ' *YOU ARE CURRENTLY USING BRYANT-MD*\n\n';
     let d = '✅latest version installed...';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
+    var img = 'https://telegra.ph/file/66fcd6748f3d2b02ca6e0.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
