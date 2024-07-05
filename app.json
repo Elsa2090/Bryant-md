@@ -2,7 +2,7 @@
   "name":"𝗕𝗥𝗬𝗔𝗡𝗧 𝗠𝗗",
   "description":"Deploy now your 𝗕𝗥𝗬𝗔𝗡𝗧 𝗠𝗗 bot, 𝗕𝗥𝗬𝗔𝗡𝗧-𝗠𝗗 was developed by 𝗕𝗿𝘆𝗮𝗻𝘁.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/ceb59b49e542301771c5c.mp4",
+  "logo":"https://telegra.ph/file/0a0651e6263f95dff7fbe.jpg",
   "repository":"https://github.com/Elsa2090/Bryant-md",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; its ristricted dont touch it.",
-      "value":"https://telegra.ph/file/cceaff658a46eee20f495.jpg",
+      "value":"https://telegra.ph/file/ceb59b49e542301771c5c.mp4",
       "required":false
        
      },
