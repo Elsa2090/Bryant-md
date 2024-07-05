@@ -4,10 +4,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "wagroup", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'Hello 👋\n\nClick The link below to Join 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 WhatsApp Testing Group\n\n';
-    let d = 'https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI';
+    let z = 'Hello 👋\n\nClick The link below to Join 𝗕𝗥𝗬𝗔𝗡𝗧 𝗠𝗗 WhatsApp Testing Group\n\n';
+    let d = 'https://chat.whatsapp.com/Bkf3xlt8RTDLJdqtvMKL4X';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
+    var img = 'https://telegra.ph/file/c40ec1edc5e034f59db0b.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -15,10 +15,10 @@ console.log("mon test");
 
 zokou({ nomCom: "channel", reaction: "😌", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'Hello 👋\n\nClick The link below to Join 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 WhatsApp Channel\n\n';
-    let d = 'https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F';
+    let z = 'Hello 👋\n\nClick The link below to Join 𝗕𝗥𝗬𝗔𝗡𝗧 𝗠𝗗 WhatsApp Channel\n\n';
+    let d = 'https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
+    var img = 'https://telegra.ph/file/6f4be641947bfe51b8bb6.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -26,10 +26,10 @@ console.log("mon test");
 
 zokou({ nomCom: "developer", reaction: "🌟", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = ' *HERE ARE MY OWNER INFO* \n\n✇ *NAME* : Brian Kanyiri Wainaina\n✇ *AGE* : 21 years\n✇ *SEX* : MALE\n✇ *RELIGION* : Christian\n✇ *NATIONALITY* :Kenyan 🇰🇪\n✇ *FAV TEAM* :Manchester United\n✇ *REAL LIFE* :I am a plumber, I never learned about coding.\n✇ *HOBBY* : Scrolling on websites\n✇ *CONTACT BELTAH* :👇 👇 \n';
-    let d = '𓄂 https://wa.me/254114141192\n𓄂 https://wa.me/254737681758\n\n *THANK YOU FOR LOVING BELTAH-MD*. ';
+    let z = ' *HERE ARE MY OWNER INFO* \n\n✇ *NAME* : Brian Kanyiri Wainaina\n✇ *AGE* : 21 years\n✇ *SEX* : MALE\n✇ *RELIGION* : Christian\n✇ *NATIONALITY* :𝗖𝗢𝗨𝗡𝗧𝗥𝗬𝗡𝗜𝗔𝗡\n✇ *FAV TEAM* :Manchester United\n✇ *REAL LIFE* :𝗜 𝗔𝗠 𝗔 𝗛𝗔𝗖𝗞𝗘𝗥 𝗜𝗡 𝗥𝗘𝗔𝗟 𝗟𝗜𝗙𝗘, 𝗜 𝗡𝗘𝗩𝗘𝗥 𝗟𝗘𝗔𝗥𝗡𝗧 𝗜𝗧 𝗙𝗥𝗢𝗠 𝗔𝗡𝗬 𝗕𝗢𝗗𝗬.\n✇ *HOBBY* : Scrolling on websites\n✇ *𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛* :⟱⟱ \n';
+    let d = '♕︎ https://wa.me/233530729233\n༆ https://wa.me/94784192378\n\n *THANK YOU FOR LOVING 𝗕𝗥𝗬𝗔𝗡𝗧-𝗠𝗗*. ';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
+    var img = 'https://telegra.ph/file/a48f30c31edaca874af4b.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -37,8 +37,8 @@ console.log("mon test");
 
 zokou({ nomCom: "test", reaction: "✅", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = ' *☹︎ BELTAH-MD BOT IS CURRENTLY ACTIVE ☹︎*\n';
-    let d = ' ❄︎ *_MADE ON EARTH BY BELTAH TECH TEAM_* ❄︎';
+    let z = ' *☹︎ 𝗕𝗥𝗬𝗔𝗡𝗧-𝗠𝗗 𝗕𝗢𝗧 𝗜𝗦 𝗖𝗨𝗥𝗥𝗘𝗡𝗧𝗟𝗬 𝗔𝗖𝗧𝗜𝗩𝗘 凸(｀0´)凸*\n';
+    let d = ' ❄︎ *_MADE ON EARTH BY BRYANT TECH TEAM_* ❄︎';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/bc12002382105e156a9d1.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
@@ -48,8 +48,8 @@ console.log("mon test");
 
 zokou({ nomCom: "bot", reaction: "🤖", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = ' *BELTAH-MD MAIN FEATURES* \n\n 1.Auto view status✅\n 2.Always online✅\n 3.A1 chat gpt enabled \n 4.Download songs/images✅\n 5.Open view once photos✅\n 6.Antidelete messages✅\n 7.Auto block contacts✅\n 8.Auto bluetick✅\n\n';
-    let d = ' *THANK YOU FOR LOVING BELTAH-MD*';
+    let z = ' *BRYANT-MD MAIN FEATURES* \n\n 1.Auto view status✅\n 2.Always online✅\n 3.A1 chat gpt enabled \n 4.Download songs/images✅\n 5.Open view once photos✅\n 6.Antidelete messages✅\n 7.Auto block contacts✅\n 8.Auto bluetick✅\n\n';
+    let d = ' *THANK YOU FOR LOVING BRYANT-MD*';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
