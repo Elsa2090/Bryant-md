@@ -31,7 +31,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
   tag += `========================\n  
-        🌟 *Beltah-Md* 🌟
+        ✦𝗕𝗥𝗬𝗔𝗡𝗧-𝗠𝗗✦
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Autor : *${nomAuteurMessage}* 👋 
@@ -72,13 +72,13 @@ zokou({ nomCom: "link", categorie: 'Group', reaction: "🙋" }, async (dest, zk,
 
   let mess = `hello ${nomAuteurMessage} , here is the group link for ${nomGroupe} \n
 
-Grp link :${lien} \n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢  𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖`
+Grp link :${lien} \n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢  𝚇(𝚋𝚛𝚢𝚊𝚗𝚝)-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖`
   repondre(mess)
 
 
 });
 /** *nommer un membre comme admin */
-zokou({ nomCom: "promote", categorie: 'Group', reaction: "👨🏿‍💼" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "promote", categorie: 'Group', reaction: "👨" }, async (dest, zk, commandeOptions) => {
   let { repondre, msgRepondu, infosGroupe, auteurMsgRepondu, verifGroupe, auteurMessage, superUser, idBot } = commandeOptions;
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   if (!verifGroupe) { return repondre("For groups only"); }
@@ -125,7 +125,7 @@ zokou({ nomCom: "promote", categorie: 'Group', reaction: "👨🏿‍💼" }, as
                       he/she has been named group administrator.`
               await zk.groupParticipantsUpdate(dest, [auteurMsgRepondu], "promote");
               zk.sendMessage(dest, { text: txt, mentions: [auteurMsgRepondu] })
-            } else { return repondre("This member is already an administrator of the group.") }
+            } else { return repondre("This member is already an King of the group.") }
 
           } else { return repondre("This user is not part of the group."); }
         }
@@ -140,7 +140,7 @@ zokou({ nomCom: "promote", categorie: 'Group', reaction: "👨🏿‍💼" }, as
 //fin nommer
 /** ***demettre */
 
-zokou({ nomCom: "demote", categorie: 'Group', reaction: "👨🏿‍💼" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "demote", categorie: 'Group', reaction: "💀" }, async (dest, zk, commandeOptions) => {
   let { repondre, msgRepondu, infosGroupe, auteurMsgRepondu, verifGroupe, auteurMessage, superUser, idBot } = commandeOptions;
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   if (!verifGroupe) { return repondre("For groups only"); }
@@ -445,7 +445,7 @@ zokou({ nomCom: "info", categorie: 'Group' }, async (dest, zk, commandeOptions) 
                     } else {
                   await atbajouterOuMettreAJourJid(dest,"oui");
                 
-              repondre("the antibot is successfully activated") }
+              repondre("the antibot is successfully activated thats means im the king of all bots 😌") }
      
             } else if (arg[0] === "off") {
 
@@ -511,7 +511,7 @@ zokou({ nomCom: "group", categorie: 'Group' }, async (dest, zk, commandeOptions)
 
     
   } else {
-    repondre("order reserved for the administratorr");
+    repondre("order reserved for the admin");
     return;
   }
  
@@ -523,10 +523,10 @@ zokou({ nomCom: "left", categorie: "Mods" }, async (dest, zk, commandeOptions) =
   const { repondre, verifGroupe, superUser } = commandeOptions;
   if (!verifGroupe) { repondre("order reserved for group only"); return };
   if (!superUser) {
-    repondre("command reserved for the bot owner");
+    repondre("command reserved for the bot master");
     return;
   }
-  await repondre('sayonnara') ;
+  await repondre('Im out of here 🙃') ;
    
   zk.groupLeave(dest)
 });
@@ -660,7 +660,7 @@ zokou({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,command
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'BELTAH-tag',
+          pack: 'BRYANT-tag',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
@@ -726,7 +726,7 @@ zokou({ nomCom: "apk", reaction: "✨", categorie: "Recherche" }, async (dest, z
 
     const downloadLink = appData.dllink;
     const captionText =
-      "『 *Beltah-Md Application* 』\n\n*Name :* " + appData.name +
+      "『 *Bryant-Md Application* 』\n\n*Name :* " + appData.name +
       "\n*Id :* " + appData["package"] +
       "\n*Last Update :* " + appData.lastup +
       "\n*Size :* " + appData.size +
