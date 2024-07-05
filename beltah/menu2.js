@@ -50,7 +50,7 @@ const date = moment().format('DD/MM/YYYY');
     
 let menuMsg = `
 ╭─────────✦
-   *𝗥𝗘𝗦𝗣𝗘𝗖𝗧 𝗧𝗛𝗜𝗦 𝗨𝗦𝗘𝗥*
+   *𝙱𝚁𝚈𝙰𝙽𝚃.𝙸𝙽𝙲*
 ╰─────────✣
 
  *❄︎LIST PLUGINS❄︎*
