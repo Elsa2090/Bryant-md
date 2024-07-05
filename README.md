@@ -33,13 +33,21 @@
 
 ## GET YOUR SESSION ID: 
 
-**CLICK HERE 👇 TO PAIR**
+**CLICK HERE 👇 TO PAIR OR QR ON REPLIT**
 
 <a href="https://replit.com/@arcanedream77/bryantmd-sessionid?v=1"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
-**CLICK HERE 👇 TO SCAN QR**
+**CLICK HERE 👇 TO SCAN OR QR ON GITHUB**
 
-<a href="https://replit.com/@arcanedream77/bryantmd-sessionid?v=1"><img src="https://img.shields.io/badge/QR%20session%20code-gold" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://46ebb1bb-978f-499f-af19-7f5ea59e3d8a-00-19sifqx19lkql.worf.replit.dev/"><img src="https://img.shields.io/badge/QR%20session%20code-gold" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+
+<a href="https://www.youtube.com/@BryantXtech"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-red" alt="FULL TUTORIAL HERE" width="150"></a>
+
+
+## 4. DEPLOY NOW ON HEROKU 
+<h1 align="center">
+
+ 
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
