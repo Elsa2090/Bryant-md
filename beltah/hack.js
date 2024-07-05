@@ -1,3 +1,14 @@
+const {zokou} = require("../framework/zokou");
+const axios = require('axios');
+const traduire = require('../framework/traduction')
+
+
+
+zokou({
+    nomCom: "hack",
+    categorie: "Games",
+    reaction: "🤫"
+  },
 const {fetchJson,cmd, tlang,sleep } = require('../lib')
 
 //---------------------------------------------------------------------------
