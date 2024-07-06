@@ -101,83 +101,10 @@ zokou({ nomCom: "bugmenu", reaction: "🐛", nomFichier: __filename }, async (de
 });
 console.log("mon test");
 
-zokou({ nomCom: "hack", reaction: "👨‍💻", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "test", reaction: "👨‍💻", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '
-citel.reply("```Injecting malware```")
-
-await sleep(1000)
-
-citel.reply("```hacking into device \n 0%```")
-
-await sleep(1000)
-
-citel.reply("```transfering photos \n █ 10%```")
-
-await sleep(1000)
-
-citel.reply("```transfer successful \n █ █ 20%```")
-
-await sleep(1000)
-
-citel.reply("```transfering videos \n █ █ █ 30%```")
-
-await sleep(1000)
-
-citel.reply("```transfer successful \n █ █ █ █ 40%```")
-
-await sleep(1000)
-
-citel.reply("```transfering audio \n █ █ █ █ █ 50%```")
-
-await sleep(1000)
-
-citel.reply("```transfer successful \n █ █ █ █ █ █ 60%```")
-
-await sleep(1000)
-
-citel.reply("```transfering hidden files \n █ █ █ █ █ █ █ 70%```")
-
-await sleep(1000)
-
-citel.reply("```transfer successful \n █ █ █ █ █ █ █ █ 80%```")
-
-await sleep(1000)
-
-citel.reply("```transfering whatsapp chat \n █ █ █ █ █ █ █ █ █ 90%```")
-
-await sleep(1000)
-
-citel.reply("```transfer successful \n █ █ █ █ █ █ █ █ █ █ 100%```")
-
-await sleep(1000)
-
-citel.reply("```System hyjacking on process.. \n Conecting to Server ```")
-
-await sleep(1000)
-
-citel.reply("```Divice successfully connected... \n Riciving data...```")
-
-await sleep(1000)
-
-citel.reply("```Data hyjacked from divice 100% completed \n killing all evidence killing all malwares...```")
-
-await sleep(1000)
-
-citel.reply("``` HACKING COMPLETED ```")
-
-await sleep(1000)
-
-citel.reply("``` SENDING PHONE DOCUMENTS AND SECRET FILES TO BRYANT TEC...```")
-
-await sleep(1000)
-
-citel.reply("``` SUCCESSFULLY SENT DATA AND SECRET FILES AND Connection disconnected```")
-
-await sleep(1000)
-
-            return citel.reply('*ALL FILES TRANSFERRED TO BRYANT*'';
-    let d = '𝗬𝗢𝗨 𝗛𝗔𝗩𝗘 𝗕𝗘𝗘𝗡 𝗛𝗔𝗖𝗞𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗙𝗨𝗟𝗟𝗬';
+    let z = '𝗧𝗘𝗦𝗧𝗜𝗡𝗚......;
+    let d = '𝗜 𝗔𝗠 𝗕𝗥𝗛𝗔𝗡𝗧-𝗠𝗗 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/848e7f1f2b56721405cfc.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
