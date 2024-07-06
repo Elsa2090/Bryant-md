@@ -62,18 +62,18 @@ zokou({ nomCom: "g*y", reaction: "🏳️‍🌈", nomFichier: __filename }, asy
     let z = ' *F*CK MEHN,,, THIS GUY IS G*Y🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈*\n';
     let d = 'WHY WOULD YOU REQUEST THAT COMMAND IF NOT';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/5d4c27c77b240483e7b05.png';
+    var img = 'https://telegra.ph/file/92e7281eca9d48f39fccc.png';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
 
-zokou({ nomCom: "check", reaction: "🗿", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "check", reaction: "💫", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = ' *BELTAH-MD UPDATES*\n\n';
-    let d = 'Checking for updates...⏳\n\nUpdating new version...⏳\n\ndone....✅\n\n *𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 NEW VERSION SUCCESSFULLY INSTALLED...* ';
+    let z = ' *BRYANT-MD UPDATES*\n\n';
+    let d = 'Checking for updates...⏳\n\nUpdating new version...⏳\n\ndone....✅\n\n *𝗕𝗥𝗬𝗔𝗡𝗧 𝗠𝗗 NEW VERSION SUCCESSFULLY INSTALLED...* ';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
+    var img = 'https://telegra.ph/file/6c1bce8ac66a111913249.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -81,10 +81,10 @@ console.log("mon test");
 
 zokou({ nomCom: "version", reaction: "⏳", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = ' *YOU ARE CURRENTLY USING BELTAH-MD V3.0.0*\n\n';
-    let d = '✅latest version installed...';
+    let z = ' *YOU ARE CURRENTLY USING BRYANT-MD*\n\n';
+    let d = '✅latest version installed... JUST WAIT FOR BRYANT-MDV2';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
+    var img = 'https://telegra.ph/file/e2f673fd06a5adb2f607e.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -95,18 +95,18 @@ zokou({ nomCom: "bugmenu", reaction: "🐛", nomFichier: __filename }, async (de
     let z = '┌─❒𝗕𝗘𝗟𝗧𝗔𝗛-𝗠𝗗 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨⁠⁠⁠⁠❒⁠⁠⁠\n│╭─────────────···\n┴│▸\n⬡│▸ ʙᴜɢ\n⬡│▸ ʙᴜɢᴠ\n⬡│▸ ʙᴜɢʀᴇᴀᴄᴛ\n⬡│▸ ᴀᴜᴅɪᴏʙᴜɢ\n⬡│▸ ɪᴏꜱʙᴜɢ\n⬡│▸ ɪᴏꜱʙᴜɢᴠ\n┬│▸\n│╰────────────···▸▸\n';
     let d = '└───────────────···▸';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/e24fe04ebb2353c3c693e.jpg';
+    var img = 'https://telegra.ph/file/ab56fc86e551c1ce7331b.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
 console.log("mon test");
 
-zokou({ nomCom: "genz", reaction: "🇰🇪", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "tgbot", reaction: "🤫", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = ' *❒⁠⁠⁠⁠ #REJECTFINANCEBILL2024 ❒⁠⁠⁠⁠*\n\nClick The link below to Join *❒⁠⁠⁠⁠GEN Z❒* official⁠⁠⁠⁠ WhatsApp Channel\nHelp us grow and reject that piece of shiet.\n\n';
-    let d = 'https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F';
+    let z = ' *❒⁠⁠⁠⁠ BRYANT TECH TELEGRAM BOT ❒⁠⁠⁠⁠*\n\nClick The link below to Join my telegram bot*❒CONTACT DEVELOPER FOR UPDATES❒* A VERY USEFUL BOT BY BRYANT TECH.\n\n';
+    let d = 'https://t.me/Bryanthackbot';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/848e7f1f2b56721405cfc.jpg';
+    var img = 'https://telegra.ph/file/b3ae2f0e5a951159b5915.mp4';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
