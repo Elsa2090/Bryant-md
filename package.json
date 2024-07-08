@@ -5,7 +5,7 @@
   "main": "bryant.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node beltah.js",
+    "s": "node bryant.js",
     "beltah": "pm2 start beltah.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
